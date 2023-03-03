@@ -1,0 +1,6 @@
+Commands to change File Permissions...
+
+1) chmod +rwx --> Filename to add permission.
+2) chmod -rwx --> Directory name to remove permisson.
+3) chmod -x      -> Filname to allow Executable permission.
+4) chnod -wx --> Filname to take out write and executable permissions.
